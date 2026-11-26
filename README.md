@@ -1,1 +1,0 @@
-# MAJOR-PROJECT---Sound-speech-Detection-App
